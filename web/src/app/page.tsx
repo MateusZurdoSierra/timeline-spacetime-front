@@ -1,3 +1,3 @@
 export default function Home() {
-  return <view></view>;
+  return <view></view>
 }
